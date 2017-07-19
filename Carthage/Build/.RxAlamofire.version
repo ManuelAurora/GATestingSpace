@@ -1,0 +1,21 @@
+{
+  "iOS" : [
+    {
+      "hash" : "3c7b43a56fae3fa2aee649a6f2aa6602e0aff6870eaf85ec293cc2d41fb4585c",
+      "name" : "RxAlamofire"
+    }
+  ],
+  "commitish" : "6bac601d95ea54aaf3ed5c14535c46166c860812",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "hash" : "91e7ca0309401cd7415fba27ef4535e97d115ba6bb04b1cc9ee59c54dcd4b830",
+      "name" : "RxAlamofire"
+    }
+  ],
+  "Mac" : [
+
+  ]
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "IntegratedServicesDataManager.(createDataFromRequest(success : ([(leftValue : String, centralValue : String, rightValue : String)]) -&gt; ()) -&gt; ()).(closure #1):IntegratedServicesDataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ExternalRequest.(getJson(url : String, header : [String : String]?, params : [String : Any]?, method : HTTPMethod) -&gt; Observable&lt;JSON&gt;).(closure #1):ExternalRequestService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;error&quot;].null">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.(bindViewModel() -&gt; ()).(closure #1):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tokenTextField.stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GAnalytics.(getViewID() -&gt; Observable&lt;[(viewID : String, webSiteUri : String)]&gt;).(closure #1):GoogleAnalytics.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ExternalRequest.getJson(url : String, header : [String : String]?, params : [String : Any]?, method : HTTPMethod) -&gt; Observable&lt;JSON&gt;:ExternalRequestService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "IntegratedServicesDataManager.dataFor(report : Report) -&gt; ():IntegratedServicesDataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataForPresent">
+            </PersistentString>
+            <PersistentString
+               value = "dataRows.metrics[0].values">
+            </PersistentString>
+            <PersistentString
+               value = "value.values">
+            </PersistentString>
+            <PersistentString
+               value = "dataRows.metrics.values">
+            </PersistentString>
+            <PersistentString
+               value = "data?.metrics">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

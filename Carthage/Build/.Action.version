@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "c5eade2e812b253d5f815c4d46232e7d6c1d6255ad6d0656056b2c84e5997d67",
+      "name" : "Action"
+    }
+  ],
+  "commitish" : "2.3.0",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}
